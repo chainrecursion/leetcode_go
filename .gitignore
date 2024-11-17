@@ -1,0 +1,48 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Output of the go tool, eg: coverage profiles
+*.out
+
+# Dependency directories (if using vendoring)
+vendor/
+
+# Go modules
+go.sum
+
+# IDE and editor files
+.idea/
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# IntelliJ specific files
+*.iml
+.idea/
+
+# VS Code specific files
+.vscode/
+
+# MacOS specific files
+.DS_Store
+
+# Logs
+*.log
+
+# Build directories
+bin/
+build/
+
+# Coverages
+coverage.out
+
+# Local environment variables file
+.env
